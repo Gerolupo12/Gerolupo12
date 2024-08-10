@@ -59,7 +59,7 @@ GeroDevs</a></h1>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
 			<img src="https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format=png&color=000000"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/?size=100&id=16318&format=png&color=000000"></a>
+		<img src="https://img.icons8.com/windows/32/000000/github.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
 				<img src="https://img.icons8.com/?size=40&id=16473&format=png&color=000000"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
