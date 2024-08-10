@@ -2,7 +2,7 @@
 GeroDevs</a></h1>
 <h3 align="center">A passionate Frontend developer from Argentina</h3>
 
-<picture  align= "center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture>About me
+<picture  align= "center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture>About me
  
 <a target="_blank" align="center">
 	<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
