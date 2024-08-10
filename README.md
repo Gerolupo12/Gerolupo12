@@ -10,12 +10,15 @@ GeroDevs</a></h1>
 
 
 👨‍💻 &nbsp;I am Frontend Developer.\
+<br/>
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+<br/>
 ✍️ &nbsp;In my free time, I create the Websites.\
+<br/>
 ✉️ &nbsp;You can shoot me an email at ramallogeronimo00@gmail.com! I'll try to respond as soon as I can.\
+<br/>
 ✉️ &nbsp;You can shoot me an email at ramallogeronimo00@gmail.com! I'll try to respond as soon as I can.\
-✉️ &nbsp;You can shoot me an email at ramallogeronimo00@gmail.com! I'll try to respond as soon as I can.\
-✉️ &nbsp;You can shoot me an email at ramallogeronimo00@gmail.com! I'll try to respond as soon as I can.\
+<br/>
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
 <br/>
 
