@@ -47,7 +47,7 @@ GeroDevs</a></h1>
 
 <a href="https://github.com/Gerolupo12/">
 <img src="https://github-readme-stats.vercel.app/api?username=Gerolupo12&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Gerolupo12">	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerolupo12&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="Gerolupo12"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerolupo12&theme=merko&show_icons=true&hide_border=true&layout=compact" width="350" alt="Gerolupo12"/>
 
 </a>
 </div>
