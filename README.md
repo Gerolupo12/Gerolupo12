@@ -8,9 +8,6 @@ GeroDevs</a></h1>
 	<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-
-👨‍💻 &nbsp;
-<br/>
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 <br/>
 ✍️ &nbsp;In my free time, I learning new languages.
