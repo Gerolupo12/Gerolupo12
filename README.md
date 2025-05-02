@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 GeroDevs</a></h1>
-<h3 align="center">A passionate Frontend developer from Argentina</h3>
+<h3 align="center">A passionatedeveloper from Argentina</h3>
 
 <picture  align= "center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture>About me
  
@@ -9,11 +9,11 @@ GeroDevs</a></h1>
 </a>
 
 
-👨‍💻 &nbsp;I am Frontend Developer.\
+👨‍💻 &nbsp;
 <br/>
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 <br/>
-✍️ &nbsp;In my free time, I create the Websites.\
+✍️ &nbsp;In my free time, I learning new languages.
 <br/>
 ✉️ &nbsp;You can shoot me an email at ramallogeronimo00@gmail.com! I'll try to respond as soon as I can.\
 <br/>
