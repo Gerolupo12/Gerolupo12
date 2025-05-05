@@ -12,6 +12,7 @@ GeroDevs</a></h1>
 <br/>
 ✍️ &nbsp;In my free time, I learning new languages.
 <br/>
+<br/>
 ✉️ &nbsp;You can shoot me an email at ramallogeronimo00@gmail.com! I'll try to respond as soon as I can.\
 <br/>
 📄 &nbsp;I am currently working on creating projects to put together my portfolio, since I am looking for work.
